@@ -9,4 +9,3 @@ One PDF file compilation: [Capstone Project.pdf](Capstone%20Project.pdf)
 # Time spent
 
 Capstone Project: 98h
-# capstone_project
