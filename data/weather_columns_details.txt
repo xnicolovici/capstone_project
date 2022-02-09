@@ -1,0 +1,39 @@
+
+- STATION - Identification of the weather station
+- NAME - The name of the weather station
+- LATITUDE - Latitude of the weather station
+- LONGITUDE - Logitude of the weather station
+- ELEVATION - Elevation
+- DATE - Date when the measures where done (YYYY-MM-DD)
+
+- AWND - Average wind speed
+- DAPR - Number of days included in the multiday precipitation total (MDPR)
+- DASF - Number of days included in the multiday snow fall total (MDSF) 
+- MDPR - Multiday precipitation total (use with DAPR and DWPR, if available)
+- MDSF - Multiday snowfall total 
+- PGTM - Peak gust time
+- PRCP - Precipitation
+- PSUN - Daily percent of possible sunshine for the period
+- SNOW - Snowfall
+- SNWD - Snow depth
+- TAVG - Average Temperature.
+- TMAX - Maximum temperature
+- TMIN - Minimum temperature
+- TOBS - Temperature at the time of observation
+- TSUN - Total sunshine for the period
+- WDF2 - Direction of fastest 2-minute wind
+- WDF5 - Direction of fastest 5-second wind
+- WESD - Water equivalent of snow on the ground
+- WESF - Water equivalent of snowfall
+- WSF2 - Fastest 2-minute wind speed
+- WSF5 - Fastest 5-second wind speed
+- WT01 - Fog, ice fog, or freezing fog (may include heavy fog)
+- WT02 - Heavy fog or heaving freezing fog (not always distinguished from fog)
+- WT03 - Thunder
+- WT04 - Ice pellets, sleet, snow pellets, or small hail" 
+- WT05 - Hail (may include small hail)
+- WT06 - Glaze or rime 
+- WT08 - Smoke or haze 
+- WT09 - Blowing or drifting snow
+- WT11 - High or damaging winds
+
